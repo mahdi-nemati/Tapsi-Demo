@@ -23,3 +23,4 @@ servicesTab.forEach((item) => {
     serImg.src = wanted[2].src;
   });
 });
+//just for test
